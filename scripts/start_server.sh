@@ -1,4 +1,4 @@
 #!/bin/bash
-cd /home/ubuntu/test
+cd /home/ubuntu
 pm2 start -f app.js 
 
