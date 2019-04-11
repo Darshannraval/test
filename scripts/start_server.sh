@@ -1,4 +1,4 @@
 #!/bin/bash
 cd /home/ubuntu
-pm2 restart all
+pm2 start app.js --watch
 
