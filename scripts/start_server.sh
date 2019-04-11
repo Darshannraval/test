@@ -1,4 +1,4 @@
 #!/bin/bash
 cd /home/ubuntu
-pm2 start -f app.js 
+pm2 restart all
 
